@@ -25,6 +25,7 @@ Thumbs.db
 # Git
 .git/
 
+
 # Docker
 docker-compose.override.yml
 
