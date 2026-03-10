@@ -1,0 +1,57 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+
+# Docker
+docker-compose.override.yml
+
+# Node (if frontend exists)
+node_modules/
+
+# Build files
+dist/
+build/
+
+# Model files (very large)
+*.pt
+*.bin
+*.safetensors
+
+# IDE
+.vscode/
+.idea/
+
+*.pt
+*.bin
+*.safetensors
+*.pkl
+*.faiss
+*.index
+data/
+models/
+
+models/
+*.gguf
